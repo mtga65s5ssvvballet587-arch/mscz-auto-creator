@@ -1,0 +1,15 @@
+{
+  "title": "きらきら星",
+  "composer": "Traditional",
+  "tempo": 100,
+  "time_signature": "4/4",
+  "key": 0,
+  "instrument": "piano",
+  "measures": [
+    ["C4:q", "C4:q", "G4:q", "G4:q"],
+    ["A4:q", "A4:q", "G4:h"],
+    ["F4:q", "F4:q", "E4:q", "E4:q"],
+    ["D4:q", "D4:q", "C4:h"],
+    ["C4+E4+G4:w"]
+  ]
+}
